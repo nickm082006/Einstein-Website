@@ -46,7 +46,7 @@ const imageArray = [
     },
     {
         image: "images/e2.jpg",
-        caption: "Young Einstein standing outsize posing for a photo."
+        caption: "Young Einstein standing outside posing for a photo."
     },
     {
         image: "images/e3.jpg",
